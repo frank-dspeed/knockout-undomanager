@@ -1,0 +1,19 @@
+{
+  "name": "knockout-undomanager",
+  "version": "0.2.1",
+  "description": "KO-UndoManager ==============",
+  "main": "knockout-undomanager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frank-dspeed/knockout-undomanager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frank-dspeed/knockout-undomanager/issues"
+  },
+  "homepage": "https://github.com/frank-dspeed/knockout-undomanager#readme"
+}
